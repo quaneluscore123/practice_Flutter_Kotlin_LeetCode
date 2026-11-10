@@ -1,0 +1,5 @@
+/.vscode/
+/dart-sdk/
+/flutter-sdk/
+.dart_tool/
+build/
